@@ -7,9 +7,9 @@ To run this, put the Assignment4 directory in `~/go/src/github.com/parkerottaway
 
 `~/go/src/` is the default $GOHOME.
 
-To run the client, go to `~/go/src/github.com/parkerottaway/Assignment4/Client` and do `go run main.go`.
+To run the client, go to `~/go/src/github.com/parkerottaway/RTMessenger/Client` and do `go run main.go`.
 
-To run the server, go to `~/go/src/github.com/parkerottaway/Assignment4/Server` and do `go run main.go`.
+To run the server, go to `~/go/src/github.com/parkerottaway/RTMessenger/Server` and do `go run main.go`.
 
 ## Client Functions
 
