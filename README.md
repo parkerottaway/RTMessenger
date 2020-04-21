@@ -3,7 +3,7 @@ This was compiled using Go 1.13.4 (but most recent versions should be OK) on Ubu
 
 To install the latest Go compiler and runtime, use `sudo snap install --classic go`.
 
-To run this, put the Assignment4 directory in `~/go/src/github.com/parkerottaway/`.
+To run this, put the RTMessenger directory in `~/go/src/github.com/parkerottaway/`.
 
 `~/go/src/` is the default $GOHOME.
 
